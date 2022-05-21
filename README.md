@@ -1,2 +1,2 @@
-# mcabla.github.io
-My Github project page
+# Projects
+My Github project page can be found [here](https://mcabla.github.io).
